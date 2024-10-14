@@ -6,4 +6,4 @@ Tecnologias Utilizadas:
 - Visual Studio Code
 - C# MVC
 
-![image](https://github.com/user-attachments/assets/182c4be5-a2b2-4cec-9b5f-2eeddae68f47)
+![image](https://github.com/user-attachments/assets/136870a2-bf34-4d33-91f4-808f430f4e8c)
