@@ -1,0 +1,901 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\001.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\001.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\002.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\002.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\003.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\003.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\004.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\004.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\005.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\005.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\006.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\006.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\007.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\007.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\008.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\008.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\009.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\009.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\010.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\010.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\011.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\011.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\012.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\012.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\013.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\013.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\014.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\014.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\015.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\015.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\016.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\016.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\017.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\017.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\018.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\018.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\019.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\019.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\020.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\020.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\021.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\021.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\022.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\022.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\023.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\023.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\024.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\024.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\025.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\025.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\026.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\026.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\027.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\027.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\028.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\028.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\029.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\029.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\030.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\030.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\031.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\031.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\032.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\032.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\033.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\033.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\034.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\034.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\035.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\035.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\036.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\036.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\037.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\037.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\038.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\038.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\039.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\039.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\040.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\040.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\041.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\041.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\042.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\042.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\043.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\043.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\044.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\044.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\045.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\045.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\046.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\046.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\047.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\047.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\048.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\048.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\049.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\049.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\050.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\050.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\051.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\051.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\052.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\052.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\053.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\053.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\054.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\054.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\055.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\055.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\056.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\056.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\057.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\057.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\058.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\058.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\059.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\059.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\060.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\060.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\061.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\061.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\062.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\062.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\063.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\063.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\064.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\064.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\065.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\065.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\066.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\066.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\067.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\067.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\068.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\068.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\069.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\069.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\070.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\070.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\071.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\071.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\072.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\072.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\073.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\073.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\074.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\074.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\075.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\075.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\076.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\076.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\077.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\077.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\078.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\078.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\079.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\079.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\080.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\080.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\081.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\081.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\082.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\082.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\083.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\083.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\084.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\084.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\085.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\085.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\086.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\086.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\087.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\087.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\088.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\088.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\089.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\089.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\090.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\090.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\091.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\091.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\092.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\092.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\093.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\093.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\094.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\094.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\095.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\095.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\096.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\096.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\097.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\097.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\098.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\098.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\099.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\099.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\100.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\100.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\101.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\101.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\102.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\102.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\103.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\103.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\104.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\104.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\105.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\105.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\106.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\106.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\107.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\107.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\108.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\108.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\109.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\109.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\110.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\110.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\111.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\111.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\112.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\112.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\113.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\113.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\114.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\114.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\115.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\115.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\116.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\116.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\117.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\117.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\118.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\118.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\119.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\119.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\120.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\120.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\121.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\121.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\122.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\122.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\123.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\123.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\124.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\124.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\125.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\125.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\126.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\126.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\127.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\127.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\128.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\128.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\129.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\129.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\130.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\130.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\131.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\131.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\132.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\132.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\133.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\133.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\134.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\134.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\135.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\135.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\136.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\136.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\137.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\137.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\138.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\138.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\139.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\139.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\140.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\140.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\141.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\141.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\142.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\142.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\143.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\143.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\144.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\144.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\145.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\145.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\146.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\146.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\147.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\147.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\148.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\148.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\149.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\149.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\150.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\150.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\img\\pokemons\\151.png",
+      "PackagePath": "staticwebassets\\img\\pokemons\\151.png"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Renan\\Desktop\\PokedexDS-main\\Pokedex\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pokedex.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pokedex.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pokedex.props",
+      "PackagePath": "build\\Pokedex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pokedex.props",
+      "PackagePath": "buildMultiTargeting\\Pokedex.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pokedex.props",
+      "PackagePath": "buildTransitive\\Pokedex.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
